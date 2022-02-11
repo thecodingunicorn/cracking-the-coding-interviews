@@ -1,0 +1,23 @@
+{
+  "name": "ctci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/thecodingunicorn/cracking-the-coding-interviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecodingunicorn/cracking-the-coding-interviews/issues"
+  },
+  "homepage": "https://github.com/thecodingunicorn/cracking-the-coding-interviews#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
